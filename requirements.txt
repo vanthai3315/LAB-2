@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+streamlit
+firebase-admin
+pyrebase4
+requests

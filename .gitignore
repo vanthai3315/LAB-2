@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Firebase Private Key
+backend/serviceAccountKey.json
